@@ -69,7 +69,7 @@
       {
         "title": "En Croissant",
         "maximized": true,
-        "visible": false,
+        "visible": true,
         "decorations": true
       }
     ],
